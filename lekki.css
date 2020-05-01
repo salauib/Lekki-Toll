@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: rgb(247, 238, 238);
+    border: 1px solid rgb(216, 214, 214);
+    border-radius: 5px;
+    width: 500px;
+    height: auto;
+    margin: 30px auto;
+}
+
+.oneone {
+    text-align: center;
+    margin: 30px auto 0 auto;
+}
+
+.oneone p {
+    color: rgb(230, 1, 1);
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#at {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+#three {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 1, 1);
+    margin-bottom: 10px;
+}
+
+#four {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 1, 1);
+    margin-bottom: 10px;
+}
+
+#etag {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 1, 1);
+    margin-bottom: 10px;
+}
+
+#five {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 1, 1);
+    margin-bottom: 10px;
+}
+
+.twotwo {
+    text-align: center;
+}
+
+.twotwo p {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.threethree {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.threethree div {
+    display: inline-block;
+}
+
+#email {
+    width: 30px;
+    height: 30px;
+}
+
+#cs {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fourfour {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.fourfour div {
+    display: inline-block;
+}
+
+.fourfour p {
+    font-size: 25px;
+}
+
+#major-line {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#other-lines {
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#tfl {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 1, 1);
+    margin: 10px auto;
+}
+
+#call {
+    width: 60px;
+    height: 60px;
+}
+
+.fivefive {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.fivefive div {
+    display: inline-block;
+}
+
+.fivefive p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#facebook {
+    width: 30px;
+    height: 30px;
+}
+
+.sixsix {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.sixsix div {
+    display: inline-block;
+}
+
+.sixsix p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#instagram {
+    width: 30px;
+    height: 30px;
+}
+
+#twitter {
+    width: 30px;
+    height: 30px;
+}
+
+.lcc {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#lcc {
+    width: 200px;
+    height: 300px;
+}
